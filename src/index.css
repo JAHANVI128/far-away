@@ -104,7 +104,9 @@ button, select, input{
 }
 
 input[type="checkbox"]{
-
+  height: 2rem;
+  width: 2rem;
+  accent-color: e5771f;
 }
 
 .list li button{
